@@ -99,7 +99,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: default
+      theme: refined-default
       mode: both
   - source: "@quartz-community/explicit-publish"
     enabled: false
