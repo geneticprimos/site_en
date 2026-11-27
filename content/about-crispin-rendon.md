@@ -2,7 +2,7 @@
 publish: true
 title: About Crispin Rendon
 created: 11-21-2026
-modified: 2026-11-27T18:04:38.069Z
+modified: 2026-11-27T22:59:14.204Z
 ---
 
 **Crispin Rendon** (1950–2025) was a prominent genealogist and researcher widely recognized for his extensive work on Northeastern Mexican genealogy. A longtime resident of Riverside, California, he was beloved in the Hispanic genealogy community for compiling genealogical reports and sharing his findings completely free of charge.
